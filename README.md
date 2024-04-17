@@ -38,54 +38,8 @@
 > - **데이터 정재**
 >   > - 구현하고자 하는 기능인 분석을 위한 구체적인 분석(행복주택,매입임대,공공임대,민간임대 분류)
 >   > - 시각화 및 분석을 고려한 데이터 속성 명세(테이블 3개 명세)
-<<<<<<< HEAD
 >   >   > - allLH: LH&SH 데이터 테이블
 >   >   > - ansim: 청년 안심 주택 데이터 테이블
 >   >   > - allRent: 서울 전월세 데이터 테이블
 >   > - 테이블 형식에 맞게 데이터 전처리
 >   >   > - 서울특별시 전월세가 데이터 전처리
-=======
-```sql
-    CREATE TABLE allLh (  
-      `kindRental` VARCHAR(50) NOT NULL, 
-      `adresGu` VARCHAR(50) NOT NULL, 
-      `adresWay` VARCHAR(50) NOT NULL, 
-      `scaleTot` INT NOT NULL, 
-      `kindHouse` VARCHAR(50) NOT NULL,
-      `totArea` INT NOT NULL,
-      `depositMoney` INT NOT NULL,
-      `rentalMoney` INT NOT NULL
-      );
-```
-```sql
-    CREATE TABLE ansim (
-	  `kindRental` VARCHAR(50) NOT NULL,
-	  `adresGu` VARCHAR(50) NOT NULL,
-	  `adresWay` VARCHAR(50) NOT NULL,
-	  `scaleTot` INT NOT NULL,
-	  `kindHouse` VARCHAR(50) NOT NULL,
-	  `totArea`  INT NOT NULL,
-	  `publicdepositMoney` INT NOT NULL,
-	  `publicmoneyRental` INT NOT NULL,
-	  `privateMoneyDepositLow` INT NOT NULL,
-	  `privateMoneyDepositHigh` INT NOT NULL,
-	  `privateMoneyRentalLow` INT NOT NULL,
-	  `privateMoneyRentalHigh` INT NOT NULL
-    );
-```
-```sql
-    CREATE TABLE allRent (
-    `yearReg` int, 
-    `adresGu` VARCHAR(50) NOT NULL, 
-    `division` VARCHAR(50) NOT NULL,
-		`totArea` FLOAT NOT NULL, 
-    `depositMoney` INT NOT NULL,
-    `rentalMoney` INT NOT NULL,
-    `divisionContract` VARCHAR(50) NOT NULL
-    );
-```
-    
-2024.04.17 수정사항
-- 
-
->>>>>>> hyeonji
