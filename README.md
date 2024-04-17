@@ -77,5 +77,4 @@
     `divisionContract` VARCHAR(50) NOT NULL
     );
 ```
-    
-
+LH와 SH에서 관리하는 매입임대와 행복주택 목록 데이터 추출 및 전처리
