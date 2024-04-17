@@ -38,51 +38,8 @@
 > - **데이터 정재**
 >   > - 구현하고자 하는 기능인 분석을 위한 구체적인 분석(행복주택,매입임대,공공임대,민간임대 분류)
 >   > - 시각화 및 분석을 고려한 데이터 속성 명세(테이블 3개 명세)
-```sql
-    CREATE TABLE allLh (  
-      `kindRental` VARCHAR(50) NOT NULL, 
-      `adresGu` VARCHAR(50) NOT NULL, 
-      `adresWay` VARCHAR(50) NOT NULL, 
-      `scaleTot` INT NOT NULL, 
-      `kindHouse` VARCHAR(50) NOT NULL,
-      `totArea` INT NOT NULL,
-      `depositMoney` INT NOT NULL,
-      `rentalMoney` INT NOT NULL
-      );
-```
-```sql
-    CREATE TABLE ansim (
-	  `kindRental` VARCHAR(50) NOT NULL,
-	  `adresGu` VARCHAR(50) NOT NULL,
-	  `adresWay` VARCHAR(50) NOT NULL,
-	  `scaleTot` INT NOT NULL,
-	  `kindHouse` VARCHAR(50) NOT NULL,
-	  `totArea`  INT NOT NULL,
-	  `publicdepositMoney` INT NOT NULL,
-	  `publicmoneyRental` INT NOT NULL,
-	  `privateMoneyDepositLow` INT NOT NULL,
-	  `privateMoneyDepositHigh` INT NOT NULL,
-	  `privateMoneyRentalLow` INT NOT NULL,
-	  `privateMoneyRentalHigh` INT NOT NULL
-    );
-```
-```sql
-    CREATE TABLE allRent (
-    `yearReg` int, 
-    `adresGu` VARCHAR(50) NOT NULL, 
-    `division` VARCHAR(50) NOT NULL,
-		`totArea` FLOAT NOT NULL, 
-    `depositMoney` INT NOT NULL,
-    `rentalMoney` INT NOT NULL,
-    `divisionContract` VARCHAR(50) NOT NULL
-    );
-```
-* 서울특별시 전월세가 데이터 전처리
-> 2023년, 2024년 서울특별시 전월세가 데이터 전처리 수집
-> 임대면적 1인 가구 기준 면적으로 전처리
-> 임대료 0원 결측치 제거
-> 불필요한 컬럼 제거
-> 컬럼명 통일
-> 데이터 결측치 제거
-> 원 단위 변경
-> 데이터 합치기
+>   >   > - allLH: LH&SH 데이터 테이블
+>   >   > - ansim: 청년 안심 주택 데이터 테이블
+>   >   > - allRent: 서울 전월세 데이터 테이블
+>   > - 테이블 형식에 맞게 데이터 전처리
+>   >   > - 서울특별시 전월세가 데이터 전처리
