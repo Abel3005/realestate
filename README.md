@@ -77,5 +77,5 @@
     `divisionContract` VARCHAR(50) NOT NULL
     );
 ```
-    
+I am Minhyeok
 
