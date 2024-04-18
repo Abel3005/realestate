@@ -1,6 +1,6 @@
 ﻿# PlayData Data Engineering 31th 부동산팀
 
-## fisrst Mini Prject: 청년 주택 임대 현황 파악 및 정보 제공
+## fisrst Mini Prject: 청년 주택 임대 실태 조사
 ### 프로세스
   1. 아이디어 구체화-스토리라인 잡기 
   2. 데이터 탐색(if Data is Large: 3번으로 진행.  else 1번부터 다시 시작)
