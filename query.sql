@@ -1,1 +1,0 @@
-select * from AverageAnsim WHERE ren_type COLLATE utf8mb4_general_ci = 'public' COLLATE utf8mb4_general_ci
