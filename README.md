@@ -46,4 +46,8 @@
 >   >   > - LH와 SH에서 관리하는 매입임대와 행복주택 목록 데이터 추출 및 전처리
 >   >   > - 청년 안심 주택 데이터 전처리
 
+---
+### 비트맵(choropleth)으로 청년 주택 수 출력
+>  data_visualization_test.ipynb +
+
 
