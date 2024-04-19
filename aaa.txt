@@ -1,0 +1,243 @@
+commit b3bb350ee5c76be1343da6c16fa6d9a0ccdf2477
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Fri Apr 19 05:04:54 2024 +0900
+
+    0418 merge complete
+
+commit 813c594bbb9008c8fe755640433d91c61ad34a67
+Merge: ea7e085 bfbb4ba
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Fri Apr 19 04:23:27 2024 +0900
+
+    Merge remote-tracking branch 'origin/daegun'
+
+commit ea7e0852e89a79ec9fb91457363cddcbd00ad800
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Fri Apr 19 04:18:18 2024 +0900
+
+    Seokkwang complete
+
+commit 3e719ed80bbffab297738a8acd75f0588fe1227a
+Merge: d9cb0e3 bebeca6
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Fri Apr 19 03:52:53 2024 +0900
+
+    Merge remote-tracking branch 'origin/Seokkwang'
+    final merge
+
+commit d9cb0e3e8a87ecc49b3c0fad6aff384f81d62342
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Fri Apr 19 03:52:37 2024 +0900
+
+    minhyeok complete
+
+commit bbaf1c9e2b16a5e9604b1c5c1ebd4297c50901b4
+Merge: f74c8d6 9ef095c
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Fri Apr 19 03:21:36 2024 +0900
+
+    Merge remote-tracking branch 'origin/minhyeok'
+
+commit f74c8d658622d2dfb002d4936c7294199320caf1
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Fri Apr 19 03:19:31 2024 +0900
+
+    visualization yesong complete
+
+commit 3acc48e674a5c48488f4fe42b007c66a725ea542
+Merge: dfa8ce6 e4217ab
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Fri Apr 19 03:03:00 2024 +0900
+
+    Merge remote-tracking branch 'origin/yesong'
+
+commit dfa8ce6088ba85e54235361cdf548cea2376818e
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Fri Apr 19 03:01:57 2024 +0900
+
+    not include visualize hyeonji
+
+commit 6b71fb59eef4a335d5b97c9926edf4548011a98e
+Merge: 2fb7592 eb8d07d
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Fri Apr 19 02:17:10 2024 +0900
+
+    Merge remote-tracking branch 'origin/hyeonji'
+    for data visualization, hyenji merge start
+
+commit 2fb75924d06d63306e0f9ae4a298667dfb156f8a
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Fri Apr 19 02:16:13 2024 +0900
+
+    modify gitignore
+
+commit 7bc0f23d510875a2f223170e94fc07ffd7c9b9f4
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Fri Apr 19 02:13:59 2024 +0900
+
+    data visualization KKH complete
+
+commit eb8d07d8955a9a185e637047293c0b960d3ef05c
+Author: now-paper <thn042155@gmail.com>
+Date:   Thu Apr 18 20:30:54 2024 +0900
+
+    ansim1 edited
+
+commit bebeca6d90b18d232a4bd0aa565d0ac626449899
+Author: SeokKwang <tjrrhkd623@gmail.com>
+Date:   Thu Apr 18 20:22:28 2024 +0900
+
+    240418 오늘날짜
+
+commit 9ef095c9defcb59d84a70580d97e40c6b29e2996
+Author: root <root@LAPTOP-T02ADF6S.localdomain>
+Date:   Thu Apr 18 18:14:16 2024 +0900
+
+    readme file modified
+
+commit e1402424c3c9afac3085e21d07ab350a826e5d5f
+Author: root <root@KKH.localdomain>
+Date:   Thu Apr 18 18:13:14 2024 +0900
+
+    update
+
+commit bfbb4baaf0f7b8a0ea67081b8013a6bc9d4df825
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Thu Apr 18 17:59:09 2024 +0900
+
+    visualization
+
+commit ea5bac74cd3bd65e1541794a034a34610de2f934
+Author: now-paper <thn042155@gmail.com>
+Date:   Thu Apr 18 17:58:55 2024 +0900
+
+    ansim1 with EDA is uploaded
+
+commit e4217ab7fb45988829ff375e81ed37d269e7bf98
+Author: yesong <yesong1250@naver.com>
+Date:   Thu Apr 18 17:53:48 2024 +0900
+
+    지도에 팝업찍기
+
+commit e7e3389faab4d237676c10ec6dfe89a7b7b7f718
+Author: yesong <yesong1250@naver.com>
+Date:   Thu Apr 18 17:48:53 2024 +0900
+
+    지도에 팝업찍기
+
+commit c625a7cdefb80b19094a1cfc0a1209320450ba90
+Author: now-paper <thn042155@gmail.com>
+Date:   Thu Apr 18 13:56:01 2024 +0900
+
+    ansim2 edited
+
+commit 1eed7ee848cecaa5b3bcf533dd110aaf9cd58a6f
+Author: now-paper <thn042155@gmail.com>
+Date:   Thu Apr 18 10:26:17 2024 +0900
+
+    ansim2 final version uploaded
+
+commit a846bfc463eff6a05f5d41d5a2f19f91f45254c3
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Thu Apr 18 00:38:18 2024 +0900
+
+    0417 complete
+
+commit 61f137bae279d31a32efa3342e68153b3346b4aa
+Merge: 8b45a6b 9a15233
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Thu Apr 18 00:36:32 2024 +0900
+
+    Merge branch 'Seokkwang'
+
+commit 8b45a6b3dd7f38e0096cfc800ad526a541ebbc43
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Thu Apr 18 00:34:21 2024 +0900
+
+    merge hyeonji
+
+commit c060d63e165e61e774f5d799ceecc97280a54f51
+Merge: 21db722 d2bf597
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Thu Apr 18 00:32:09 2024 +0900
+
+    Merge branch 'hyeonji'
+
+commit 21db722151966775a38215c530a3d494d501c118
+Merge: 691af31 112b931
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Thu Apr 18 00:28:30 2024 +0900
+
+    merge minhyeok
+
+commit 691af3146661b4ccfb12b673e3d1b163db1ce102
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Wed Apr 17 23:57:53 2024 +0900
+
+    verify
+
+commit 9b651dcf8767cc7f50c797ed66ad9049e946cd3f
+Author: root <root@KKH.localdomain>
+Date:   Wed Apr 17 17:37:40 2024 +0900
+
+    update
+
+commit 112b93176332a5391f7d8fcff8b7466417952f83
+Author: root <root@LAPTOP-T02ADF6S.localdomain>
+Date:   Wed Apr 17 17:32:05 2024 +0900
+
+    second test
+
+commit d2bf5976d23ba754c25249970709aaa7bb2882b7
+Author: now-paper <thn042155@gmail.com>
+Date:   Wed Apr 17 17:26:40 2024 +0900
+
+    test hyeonji
+
+commit 88186258418a61e65ef41419ee5f5a08f4b88954
+Author: root <root@LAPTOP-T02ADF6S.localdomain>
+Date:   Wed Apr 17 17:07:20 2024 +0900
+
+    test
+
+commit 9a15233dbdf059add86ec5d883b5eb546e9b9f67
+Author: SeokKwang <tjrrhkd623@gmail.com>
+Date:   Wed Apr 17 16:48:57 2024 +0900
+
+    행복주택과 매입임대의 목록들
+
+commit 39bf8892ff4f80111128dc9200fb6ad7b1ef7e47
+Author: Abel3005 <48238305+Abel3005@users.noreply.github.com>
+Date:   Wed Apr 17 16:15:14 2024 +0900
+
+    Update README.md
+
+commit c2600f2447009c06e1b3686340e1c98e2eda1f51
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Wed Apr 17 16:07:00 2024 +0900
+
+    04/17 1차 수정
+
+commit 2f5319f9ff2f6514fb3cd13f3b682741f3b94b51
+Author: root <root@LAPTOP-T02ADF6S.localdomain>
+Date:   Wed Apr 17 11:04:40 2024 +0900
+
+    test minhyeok
+
+commit 9ef6bbba8f7a753fc4df18c4bf3bb33726132475
+Author: Abel3005 <48238305+Abel3005@users.noreply.github.com>
+Date:   Tue Apr 16 22:58:33 2024 +0900
+
+    스토리라인 일부 수정
+
+commit 3ab4ee0c0bf93865e275e29affe70da196424e6a
+Author: Abel3005 <48238305+Abel3005@users.noreply.github.com>
+Date:   Tue Apr 16 22:52:52 2024 +0900
+
+    아이디어 결정 및 스토리라인 설정
+
+commit efb9c2aaa4dd8bca52d2323c6747f77fc8c47a58
+Author: David <kimdaegun1114@gmail.com>
+Date:   Tue Apr 16 22:03:41 2024 +0900
+
+    init commit
