@@ -1,3 +1,9 @@
+commit af17b54a1a7393a21640028e4bcaafe617cce079
+Author: Abel3005 <kimdaegun1114@gmail.com>
+Date:   Fri Apr 19 14:49:07 2024 +0900
+
+    solving trouble
+
 commit b3bb350ee5c76be1343da6c16fa6d9a0ccdf2477
 Author: Abel3005 <kimdaegun1114@gmail.com>
 Date:   Fri Apr 19 05:04:54 2024 +0900
