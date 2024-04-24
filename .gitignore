@@ -1,3 +1,4 @@
 *.csv
 *.zip
 db.config
+.ipynb_checkpoints
